@@ -155,6 +155,10 @@
     filter: grayscale(0);
 }
 
+footer > small {
+    display: block;
+    text-align: center;
+}
 
 
 
